@@ -1,0 +1,3 @@
+TestCases/Scheme1.robot
+TestCases/Scheme2.robot
+TestCases/Scheme3.robot

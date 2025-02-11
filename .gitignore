@@ -1,0 +1,5 @@
+Reports/
+*.xml
+*.html
+Resources/__pycache__/DBlibrary.cpython-311.pyc
+Resources/__pycache__/Utility.cpython-311.pyc
