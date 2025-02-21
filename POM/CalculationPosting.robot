@@ -42,5 +42,7 @@ Post Calculation After Verification
     Click Element   ${CheckBox}
     Wait Until Element Is Visible   ${PostButton}   timeout=10s
     Click Element   ${PostButton}
+    Wait Until Element Is Visible    //span[text()="Posting Confirmation"]//parent::div//following-sibling::div//span[text()="Yes"]    timeout=20s
+    Click Element    //span[text()="Posting Confirmation"]//parent::div//following-sibling::div//span[text()="Yes"]
     Log  Scheme has been Posted
     
