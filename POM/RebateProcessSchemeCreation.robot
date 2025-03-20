@@ -236,8 +236,8 @@ Enter a new parent scheme
     Select From List By Value    //select[contains(@formcontrolname,"schemeCategory")]    Standard Scheme
     Log To File    Scheme Category : Standard Scheme
     sleep    1s
-    Select From List By Value    //select[contains(@formcontrolname,"schemeType")]    Quantity Discount Scheme
-    Log To File    Scheme Type : Quantity Discount Scheme
+    Select From List By Value    //select[contains(@formcontrolname,"schemeType")]    Quantity Discount
+    Log To File    Scheme Type : Quantity Discount
     Enter FromDate_parent_scheme
     Enter ToDate_parent_scheme
     sleep    1s

@@ -1,0 +1,586 @@
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_6jd1H
+Scheme Description : Test_Automation_Scheme_6jd1H
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_6jd1H
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType1,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:31-01-2025,
+Scheme Doc No : Test_Automation_Description_6jd1H
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:10 - Karnataka,
+Discount G/L Account:0014200260 - Provision for Exp,
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_b1Xme
+Scheme Description : Test_Automation_Scheme_b1Xme
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_b1Xme
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType1,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:31-01-2025,
+Scheme Doc No : Test_Automation_Description_b1Xme
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:10 - Karnataka,
+Discount G/L Account:0014200260 - Provision for Exp,
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_s0IXP
+Scheme Description : Test_Automation_Scheme_s0IXP
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_s0IXP
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType1,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:31-01-2025,
+Scheme Doc No : Test_Automation_Description_s0IXP
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:10 - Karnataka,
+Discount G/L Account:0014200260 - Provision for Exp,
+Liable G/L Account:0048075030 - Discount - TBIS NFin,
+Slab Type:TN2_QD_AUG-20 (CORE),
+FirstRate:5,
+SecondRate:10,
+ThirdRate:15,
+FourthRate:20,
+FifthRate:25,
+SixthRate:30,
+SeventhRate:35,
+Scheme Number: CEMSTRSSRBQD102519242,
+Customer: 7033719
+BilledQuantityOfCustomerFromPrecalculation: 1300.75
+Customer: 7042653, Rate: 5, BilledQtyFromPrecal: 12.5,
+Customer: 7033229, Rate: 10, BilledQtyFromPrecal: 95.0,
+Customer: 7044822, Rate: 15, BilledQtyFromPrecal: 121.0,
+Customer: 7014961, Rate: 20, BilledQtyFromPrecal: 269.0,
+Customer: 7035611, Rate: 25, BilledQtyFromPrecal: 504.0,
+Customer: 7024738, Rate: 30, BilledQtyFromPrecal: 827.25,
+Customer: 7034130, Rate: 35, BilledQtyFromPrecal: 1875.0,
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_vRZLl
+Scheme Description : Test_Automation_Scheme_vRZLl
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_vRZLl
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType1,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:31-01-2025,
+Scheme Doc No : Test_Automation_Description_vRZLl
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:10 - Karnataka,
+Discount G/L Account:0014200260 - Provision for Exp,
+Liable G/L Account:0048075030 - Discount - TBIS NFin,
+Slab Type:TN2_QD_AUG-20 (CORE),
+FirstRate:5,
+SecondRate:10,
+ThirdRate:15,
+FourthRate:20,
+FifthRate:25,
+SixthRate:30,
+SeventhRate:35,
+Scheme Number: CEMSTRSSRBQD102519765,
+Customer: 7036468
+BilledQuantityOfCustomerFromPrecalculation: 13.0
+Customer: 7042246, Rate: 5, BilledQtyFromPrecal: 26.0,
+Customer: 7014300, Rate: 10, BilledQtyFromPrecal: 78.0,
+Customer: 7027569, Rate: 15, BilledQtyFromPrecal: 232.75,
+Customer: 7027951, Rate: 20, BilledQtyFromPrecal: 312.75,
+Customer: 7014109, Rate: 25, BilledQtyFromPrecal: 535.5,
+Customer: 7028765, Rate: 30, BilledQtyFromPrecal: 858.0,
+Customer: 7033719, Rate: 35, BilledQtyFromPrecal: 1300.75,
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_Q6onW
+Scheme Description : Test_Automation_Scheme_Q6onW
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_Q6onW
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType1,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:31-01-2025,
+Scheme Doc No : Test_Automation_Description_Q6onW
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:10 - Karnataka,
+Discount G/L Account:0014200260 - Provision for Exp,
+Liable G/L Account:0048075030 - Discount - TBIS NFin,
+Slab Type:TN2_QD_AUG-20 (CORE),
+FirstRate:5,
+SecondRate:10,
+ThirdRate:15,
+FourthRate:20,
+FifthRate:25,
+SixthRate:30,
+SeventhRate:35,
+Scheme Number: CEMSTRSSRBQD102519766,
+Customer: 7014238
+BilledQuantityOfCustomerFromPrecalculation: 7.0
+Customer: 7042033, Rate: 5, BilledQtyFromPrecal: 20.0,
+Customer: 7013994, Rate: 10, BilledQtyFromPrecal: 83.0,
+Customer: 7027073, Rate: 15, BilledQtyFromPrecal: 173.5,
+Customer: 7028800, Rate: 20, BilledQtyFromPrecal: 299.25,
+Customer: 7014109, Rate: 25, BilledQtyFromPrecal: 535.5,
+Customer: 7028765, Rate: 30, BilledQtyFromPrecal: 858.0,
+Customer: 7014011, Rate: 35, BilledQtyFromPrecal: 2674.45,
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_QY8cB
+Scheme Description : Test_Automation_Scheme_QY8cB
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_QY8cB
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType1,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:31-01-2025,
+Scheme Doc No : Test_Automation_Description_QY8cB
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:10 - Karnataka,
+Discount G/L Account:0014200260 - Provision for Exp,
+Liable G/L Account:0048075030 - Discount - TBIS NFin,
+Slab Type:TN2_QD_AUG-20 (CORE),
+FirstRate:5,
+SecondRate:10,
+ThirdRate:15,
+FourthRate:20,
+FifthRate:25,
+SixthRate:30,
+SeventhRate:35,
+Scheme Number: CEMSTRSSRBQD102519768,
+Customer: 7032431
+BilledQuantityOfCustomerFromPrecalculation: 5.0
+Customer: 7030920, Rate: 5, BilledQtyFromPrecal: 16.75,
+Customer: 7014147, Rate: 10, BilledQtyFromPrecal: 65.0,
+Customer: 7044726, Rate: 15, BilledQtyFromPrecal: 121.80000000000001,
+Customer: 7042495, Rate: 20, BilledQtyFromPrecal: 298.0,
+Customer: 7041550, Rate: 25, BilledQtyFromPrecal: 721.45,
+Customer: 7024738, Rate: 30, BilledQtyFromPrecal: 827.25,
+Customer: 7033719, Rate: 35, BilledQtyFromPrecal: 1300.75,
+Scheme14_QuantityDiscountTargetScheme Starts
+Scheme Name : Test_Automation_Scheme_75j4G
+Scheme Description : Test_Automation_Scheme_75j4G
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_75j4G
+KPI Definition parameter : Sales
+Unit Of measurement : %
+KPI Definition parameter : DSP
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Target Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType14,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:West,
+Announcement Date:31-12-2024,
+Scheme Doc No : Test_Automation_Description_75j4G
+Sales Organisation:1000,
+Scheme14_QuantityDiscountTargetScheme Starts
+Scheme Name : Test_Automation_Scheme_sywQw
+Scheme Description : Test_Automation_Scheme_sywQw
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_sywQw
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Target Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType14,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:West,
+Announcement Date:31-12-2024,
+Scheme Doc No : Test_Automation_Description_sywQw
+Sales Organisation:1000,
+Scheme17_TargetDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_A90Bd
+Scheme Description : Test_Automation_Scheme_A90Bd
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_A90Bd
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Target Scheme,
+SchemeType:Target Discount,
+Scheme Narration:Test_SchemeType17,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:31-01-2025,
+Scheme Doc No : Test_Automation_Description_A90Bd
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:01 - Andhra Pradesh,
+Scheme18_TargetDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_4C4vg
+Scheme Description : Test_Automation_Scheme_4C4vg
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount Scheme
+From Date:01-02-2025,
+From Date Parent Scheme : 01-02-2025
+To Date:28-2-2025,
+To Date Parent Scheme : 28-2-2025
+Scheme Objective : Sample_Test_objective_4C4vg
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Target Scheme,
+SchemeType:Target Discount,
+Scheme Narration:Test_SchemeType18,
+From Date:01-01-2025,
+To Date:31-01-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:31-12-2024,
+Scheme Doc No : Test_Automation_Description_4C4vg
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Scheme1_QuantityDiscountScheme Starts
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_zpXZv
+Scheme Description : Test_Automation_Scheme_zpXZv
+Scheme Category : Standard Scheme
+Scheme2_ProvisionScheme Starts
+Scheme Name : Test_Automation_Scheme_T3hSX
+Scheme Description : Test_Automation_Scheme_T3hSX
+Scheme Category : Standard Scheme
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_u8be6
+Scheme Description : Test_Automation_Scheme_u8be6
+Scheme Category : Standard Scheme
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_J4tj5
+Scheme Description : Test_Automation_Scheme_J4tj5
+Scheme Category : Standard Scheme
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_Lpp77
+Scheme Description : Test_Automation_Scheme_Lpp77
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount
+From Date:01-03-2025,
+From Date Parent Scheme : 01-03-2025
+To Date:31-3-2025,
+To Date Parent Scheme : 31-3-2025
+Scheme Objective : Sample_Test_objective_Lpp77
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType1,
+From Date:01-02-2025,
+To Date:28-02-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:28-02-2025,
+Scheme Doc No : Test_Automation_Description_Lpp77
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:10 - Karnataka,
+Discount G/L Account:0014200260 - Provision for Exp,
+Liable G/L Account:0048075030 - Discount - TBIS NFin,
+Slab Type:TN2_QD_AUG-20 (CORE),
+FirstRate:5,
+SecondRate:10,
+ThirdRate:15,
+FourthRate:20,
+FifthRate:25,
+SixthRate:30,
+SeventhRate:35,
+Scheme1_QuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_X851I
+Scheme Description : Test_Automation_Scheme_X851I
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount
+From Date:01-03-2025,
+From Date Parent Scheme : 01-03-2025
+To Date:31-3-2025,
+To Date Parent Scheme : 31-3-2025
+Scheme Objective : Sample_Test_objective_X851I
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType1,
+From Date:01-02-2025,
+To Date:28-02-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:28-02-2025,
+Scheme Doc No : Test_Automation_Description_X851I
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:10 - Karnataka,
+Discount G/L Account:0014200260 - Provision for Exp,
+Liable G/L Account:0048075030 - Discount - TBIS NFin,
+Slab Type:TN2_QD_AUG-20 (CORE),
+FirstRate:5,
+SecondRate:10,
+ThirdRate:15,
+FourthRate:20,
+FifthRate:25,
+SixthRate:30,
+SeventhRate:35,
+Scheme3_QuantityDiscount&GrowthScheme Starts
+Scheme Name : Test_Automation_Scheme_UWGrU
+Scheme Description : Test_Automation_Scheme_UWGrU
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount
+From Date:01-03-2025,
+From Date Parent Scheme : 01-03-2025
+To Date:31-3-2025,
+To Date Parent Scheme : 31-3-2025
+Scheme Objective : Sample_Test_objective_UWGrU
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Growth Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType3,
+From Date:01-02-2025,
+To Date:28-02-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:28-02-2025,
+Scheme Doc No : Test_Automation_Description_UWGrU
+Sales Organisation:1000,
+Scheme3_QuantityDiscount&GrowthScheme Starts
+Scheme Name : Test_Automation_Scheme_q3GzY
+Scheme Description : Test_Automation_Scheme_q3GzY
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount
+From Date:01-03-2025,
+From Date Parent Scheme : 01-03-2025
+To Date:31-3-2025,
+To Date Parent Scheme : 31-3-2025
+Scheme Objective : Sample_Test_objective_q3GzY
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode:1000 - Dalmia Cement(Bharat) Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Growth Scheme,
+SchemeType:Quantity Discount,
+Scheme Narration:Test_SchemeType3,
+From Date:01-02-2025,
+To Date:28-02-2025,
+Scheme Period:Monthly,
+Zone:South,
+Announcement Date:28-02-2025,
+Scheme Doc No : Test_Automation_Description_q3GzY
+Sales Organisation:1000,
+Distribution Channel:01 - Trade,
+Division:01 - Cement,
+Customer Region:01 - Andhra Pradesh,
+Discount G/L Account:0014201010 - Disc Prov - AP,
+Liable G/L Account:0014201010 - Disc Prov - AP,
+PreQualifierType:Incremental Quantity,
+PreviousFromDate:01-02-2023,
+PreviousToDate:28-02-2023,
+PrePeriodFromDate:01-01-2025,
+PrePeriodToDate:31-01-2025,
+PrePeriodMinimumQuantity:50.0,
+Slab Type:QD DSP 400 MT NE,
+FirstRate:10,
+SecondRate:20,
+ThirdRate:30,
+FourthRate:40,
+FifthRate:50,
+Scheme Number: CEMSTRSSRBGSP02520183,
+Customer: 7037758
+BilledQuantityOfCustomerFromPrecalculation: 80.5
+Customer:7037758,
+LiftedQtyFromDB: 82.75
+Scheme1_QuantityDiscountScheme Starts
+Scheme1_QuantityDiscountScheme Starts
+Scheme10_SpecialDiscountQuantityDiscountScheme Starts
+Scheme Name : Test_Automation_Scheme_NN6p4
+Scheme Description : Test_Automation_Scheme_NN6p4
+Scheme Category : Standard Scheme
+Scheme Type : Quantity Discount
+From Date:01-03-2025,
+From Date Parent Scheme : 01-03-2025
+To Date:31-3-2025,
+To Date Parent Scheme : 31-3-2025
+Scheme Objective : Sample_Test_objective_NN6p4
+KPI Definition parameter : Sales
+Unit Of measurement : %
+Value : 20
+KPI Definition parameter : DSP
+Unit Of measurement : %
+Value : 40
+CompanyCode Filter1:1000 - Dalmia Cement(Bharat) Ltd,
+CompanyCode Filter2:3000 - Dalmia Cement NE Limited,
+CompanyCode Filter3:6000 - Alsthom Industries Ltd,
+SchemeCategory:Standard Scheme,
+CalculationSchemeType:Quantity Discount Scheme,
+SchemeType:Spl Discount,
+Scheme Narration:SplDisc_TestSchemeType10,
+From Date:21-02-2025,
